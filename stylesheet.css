@@ -25,6 +25,51 @@ img.profile {
 h1 {
 	color: #FFFFFF;
 	font-family: 'Quicksand';
+	font-size: 300%;
+	text-align: center;
+	margin-top: 2%;
+}
+
+h2 {
+	color: #9E9E9E;
+	font-family: 'QuicksandReg';
+	font-size: 187%;
+	text-align: center;
+	margin-top: 3%;
+}
+
+h3 {
+	color: #9E9E9E;
+	font-family: 'QuicksandReg';
+	font-size: 80%;
+	text-align: left;
+	margin-top: 3%;
+	margin-left: 3%;
+}
+
+h4 {
+	color: #9E9E9E;
+	font-family: 'QuicksandReg';
+	font-size: 75%;
+	text-align: left;
+	margin-top: -1%;
+	margin-left: 4%;
+	padding-left: 8%;
+}
+
+h5 {
+	color: #FFFFFF;
+	font-family: 'QuicksandReg';
+	font-size: 120%;
+	text-align: center;
+	margin-top: -1%;
+}
+
+@media (min-width: 768)
+{
+	h1 {
+	color: #FFFFFF;
+	font-family: 'Quicksand';
 	font-size: 400%;
 	text-align: center;
 	margin-top: 2%;
@@ -63,6 +108,7 @@ h5 {
 	font-size: 150%;
 	text-align: center;
 	margin-top: -1%;
+}
 }
 
 .container-left {
