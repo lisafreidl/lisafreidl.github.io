@@ -71,21 +71,21 @@ h5 {
 .container-left {
 	position:absolute;
 	background: linear-gradient(135deg, transparent 50px, #FFFFFF 0);
-	top: 100;
-	left: 100;
+	top: 10%;
+	left: 5%;
 	background-color: #92D0AB;
-	width: 520px;
-	height: 800px;
+	width: 27%;
+	height: 80%;
 }
 
 .container-right {
 	position:absolute;
 	background: linear-gradient(225deg, transparent 50px, #FFFFFF 0);
-	top: 100;
-	right: 100;
+	top: 10%;
+	right: 5%;
 	background-color: #92D0AB;
-	width: 520px;
-	height: 800px;
+	width: 27%;
+	height: 80%;
 }
 
 #social {
