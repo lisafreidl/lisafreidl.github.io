@@ -13,8 +13,8 @@ body {
 }
 
 img.profile {
-	height: 40%;
-	width: auto;
+	height: auto;
+	width: 20%;
 	border-radius: 50%;
 	border:8px solid white;
 	display: block;
