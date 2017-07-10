@@ -114,15 +114,15 @@ h5 {
 	h1 {
 		color: #FFFFFF;
 		font-family: 'Quicksand';
-		font-size: 205%;
+		font-size: 160%;
 		text-align: center;
 		margin-top: 2%;
 	}
 
 	h2 {
-		color: #000000;
+		color: #9E9E9E;
 		font-family: 'QuicksandReg';
-		font-size: 128%;
+		font-size: 102%;
 		text-align: center;
 		margin-top: 3%;
 	}
@@ -130,7 +130,7 @@ h5 {
 	h3 {
 		color: #9E9E9E;
 		font-family: 'QuicksandReg';
-		font-size: 56%;
+		font-size: 45%;
 		text-align: left;
 		margin-top: 3%;
 		margin-left: 3%;
@@ -139,7 +139,7 @@ h5 {
 	h4 {
 		color: #9E9E9E;
 		font-family: 'QuicksandReg';
-		font-size: 52%;
+		font-size: 41%;
 		text-align: left;
 		margin-top: -1%;
 		margin-left: 4%;
@@ -149,7 +149,7 @@ h5 {
 	h5 {
 		color: #FFFFFF;
 		font-family: 'QuicksandReg';
-		font-size: 77%;
+		font-size: 63%;
 		text-align: center;
 		margin-top: -1%;
 	}
