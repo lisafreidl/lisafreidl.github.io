@@ -65,6 +65,51 @@ h5 {
 	margin-top: -1%;
 }
 
+@media only screen and (max-width: 1600px) {
+	h1 {
+		color: #FFFFFF;
+		font-family: 'Quicksand';
+		font-size: 320%;
+		text-align: center;
+		margin-top: 2%;
+	}
+
+	h2 {
+		color: #9E9E9E;
+		font-family: 'QuicksandReg';
+		font-size: 200%;
+		text-align: center;
+		margin-top: 3%;
+	}
+
+	h3 {
+		color: #9E9E9E;
+		font-family: 'QuicksandReg';
+		font-size: 88%;
+		text-align: left;
+		margin-top: 3%;
+		margin-left: 3%;
+	}
+
+	h4 {
+		color: #9E9E9E;
+		font-family: 'QuicksandReg';
+		font-size: 80%;
+		text-align: left;
+		margin-top: -1%;
+		margin-left: 4%;
+		padding-left: 8%;
+	}
+
+	h5 {
+		color: #FFFFFF;
+		font-family: 'QuicksandReg';
+		font-size: 120%;
+		text-align: center;
+		margin-top: -1%;
+	}
+}
+
 .container-both {
     overflow: hidden;
 	position: relative;
