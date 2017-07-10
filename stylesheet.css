@@ -196,7 +196,7 @@ h5 {
   vertical-align: middle;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-width: 480px) {
 	img.profile {
 		width: 90%;
 		height: auto;
