@@ -195,3 +195,15 @@ h5 {
   margin-right: 1%;
   vertical-align: middle;
 }
+
+@media only screen and (max-device-width: 480px) {
+	img.profile {
+		height: auto;
+		width: 90%;
+		border-radius: 50%;
+		border:8px solid white;
+		display: block;
+		margin: 0 auto;
+		margin-top: 3%;
+	}
+}
