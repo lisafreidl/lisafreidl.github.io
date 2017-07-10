@@ -206,4 +206,20 @@ h5 {
 		margin: 0 auto;
 		margin-top: 3%;
 	}
+	
+	h1 {
+		color: #FFFFFF;
+		font-family: 'Quicksand';
+		font-size: 300%;
+		text-align: center;
+		margin-top: 2%;
+	}
+	
+	h5 {
+		color: #FFFFFF;
+		font-family: 'QuicksandReg';
+		font-size: 120%;
+		text-align: center;
+		margin-top: -1%;
+	}
 }
