@@ -66,27 +66,29 @@ h5 {
 }
 
 .container-both {
-	display: flex;
-	position: absolute;
-	top: 10%;
+    overflow: hidden;
+	position: relative;
+	top: -70%;
 }
 
 .container-left {
-	flex: 1;
-	position: relative;
-	left: 4%;
+	float:left;
 	background: linear-gradient(135deg, transparent 50px, #FFFFFF 0);
 	background-color: #92D0AB;
-	width: 30%;
+	width: 28%;
+	margin-left: 4%;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
 }
 
 .container-right {
-	flex: 1;
-	position: relative;
-	left: 97%;
+	float: right;
 	background: linear-gradient(225deg, transparent 50px, #FFFFFF 0);
 	background-color: #92D0AB;
-	width: 30%;
+	width: 28%;
+	margin-right: 4%;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
 }
 
 #social {
