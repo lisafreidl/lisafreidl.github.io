@@ -65,6 +65,14 @@ h5 {
 	margin-top: -1%;
 }
 
+h6 {
+	color: #FFFFFF;
+	font-family: 'QuicksandReg';
+	font-size: 150%;
+	text-align: center;
+	margin-top: -1%;
+}
+
 @media only screen and (max-width: 1601px) {
 	h1 {
 		color: #FFFFFF;
@@ -188,6 +196,7 @@ h5 {
   margin-top: 2%;
   text-align: center;
 }
+
 #social img {
   height: 7%;
   width: auto;
@@ -201,7 +210,7 @@ h5 {
 		width: 90%;
 		height: auto;
 		border-radius: 50%;
-		border:8px solid red;
+		border:8px solid white;
 		display: block;
 		margin: 0 auto;
 		margin-top: 3%;
@@ -215,11 +224,87 @@ h5 {
 		margin-top: 2%;
 	}
 	
+	h2 {
+		color: #9E9E9E;
+		font-family: 'QuicksandReg';
+		font-size: 180%;
+		text-align: center;
+		margin-top: 3%;
+	}
+
+	h3 {
+		color: #9E9E9E;
+		font-family: 'QuicksandReg';
+		font-size: 75%;
+		text-align: left;
+		margin-top: 3%;
+		margin-left: 3%;
+	}
+
+	h4 {
+		color: #9E9E9E;
+		font-family: 'QuicksandReg';
+		font-size: 70%;
+		text-align: left;
+		margin-top: -1%;
+		margin-left: 4%;
+		padding-left: 8%;
+	}
+	
 	h5 {
 		color: #FFFFFF;
 		font-family: 'QuicksandReg';
-		font-size: 120%;
+		font-size: 180%;
 		text-align: center;
 		margin-top: -1%;
+	}
+	
+	h6 {
+		color: #FFFFFF;
+		font-family: 'QuicksandReg';
+		font-size: 0%;
+		text-align: center;
+		margin-top: 0%;
+	}
+	
+	.container-both {
+		overflow: visible;
+		position: relative;
+		top: 0%;
+	}
+
+	.container-left {
+		background-color: #FFFFFF;
+		width: 90%;
+		height: auto;
+		margin-left: 5%;
+		padding-bottom: 0%;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+
+	.container-right {
+		background-color: #FFFFFF;
+		width: 90%;
+		height: auto;
+		margin-right: 5%;
+		padding-bottom: 0%;
+		margin-bottom: 5%;
+	}
+	
+	#social {
+	  padding: 0;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-top: 2%;
+	  text-align: center;
+	}
+	
+	#social img {
+	  height: 7%;
+	  width: auto;
+	  margin-left: 1%;
+	  margin-right: 1%;
+	  vertical-align: middle;
 	}
 }
